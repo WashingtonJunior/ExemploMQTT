@@ -42,7 +42,7 @@ const char* SSID = "SUA_REDE_WIFI"; // SSID / nome da rede WI-FI que deseja se c
 const char* PASSWORD = "SUA_SENHA_WIFI"; // Senha da rede WI-FI que deseja se conectar
   
 // MQTT
-const char* BROKER_MQTT = "mqtt.eclipse.org"; //URL do broker MQTT que se deseja utilizar
+const char* BROKER_MQTT = "test.mosquitto.org"; //URL do broker MQTT que se deseja utilizar
 int BROKER_PORT = 1883; // Porta do Broker MQTT
  
 //Variáveis e objetos globais
